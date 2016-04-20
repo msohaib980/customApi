@@ -1,0 +1,23 @@
+{
+  "name": "customapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "math.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msohaib980/customApi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msohaib980/customApi/issues"
+  },
+  "homepage": "https://github.com/msohaib980/customApi#readme",
+  "dependencies": {
+    "md5": "^2.1.0"
+  }
+}
